@@ -11,7 +11,7 @@ import java.util.HashSet;
  * Domain class represents a Game
  */
 @NodeEntity
-class Game {
+public class Game {
 
     @GraphId
     private Long id;
