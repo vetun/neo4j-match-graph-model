@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by Agustin Sequeira on 6/6/2017.
  * Game API
  */
-@RestController
+@RestController("/games")
 public class GameController {
 
     @RequestMapping("/")
