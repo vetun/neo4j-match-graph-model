@@ -5,7 +5,7 @@ import org.springframework.data.neo4j.repository.GraphRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * Created by Melina Garcia on 6/6/2017.
+ * Created by Agustin Sequeira on 6/6/2017.
  * Retrieve and persist Game instances
  */
 @Repository
